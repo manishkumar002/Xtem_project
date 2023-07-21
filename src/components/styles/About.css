@@ -1,0 +1,55 @@
+.top{
+    height: 80px;
+    background:#e6e6e6 ;
+}
+
+.ab{
+    min-height: 325px;
+    max-width: 370px; 
+    box-sizing: border-box;
+    margin: 10px auto;
+    box-shadow: 0px 0px 15px #616161;
+    border-radius: 8px;
+}
+
+.ab:hover{
+    color:white;
+    background: blue;
+}
+
+
+.ab1{
+    min-height: 200px;
+    max-width: 280px;
+    box-shadow: 0px 0px 40px #616161;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.ab2{
+    font-size: 40px;
+}
+
+/* .m{
+    width: 590px;
+    min-height: 350px;
+}
+@media screen and (max-width:540px) {
+    .m{
+        width: 590px;
+        min-height: 350px; 
+    }
+}
+@media screen and (max-width:1024px) {
+    .m{
+        width: 400px;
+        min-height: 250px; 
+    }
+}
+
+@media screen and (max-width:1280px) {
+    .m{
+        width: 430px;
+        min-height: 250px; 
+    }
+} */

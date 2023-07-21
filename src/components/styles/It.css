@@ -1,0 +1,83 @@
+.it{
+    min-height: 300px;
+    max-width: 370px;
+    margin: 20px auto;
+    box-shadow: 0px 0px 8px #616161;
+    border-radius: 8px;
+}
+.icon{
+    color:blue;
+}
+.icon:hover{
+    color:white !important;
+}
+.it:hover{
+    color:white !important;
+    background: blue;
+    
+}
+
+
+.it1{
+    min-height: 300px;
+    max-width: 390px;
+    margin: 20px auto;
+   border: 1px solid #e6e6e6 ;
+    
+}
+
+.it1:hover{
+    color:white;
+    background: blue;
+}
+
+
+/* .......second value............ */
+
+
+.m1{
+    min-height: 300px;
+    max-width: 390px;
+    margin: 20px auto;
+   border: 1px solid #e6e6e6 ;
+    
+}
+
+.m1:hover{
+    color:white;
+    background: blue;
+}
+/* .he{
+    margin-top: 10px;
+    height: 70px;
+    background: blue;
+    color: white;
+    font-size: 28px;
+    line-height: 30px;
+    border-radius: 8px;
+}
+.he:hover{
+    margin-top: 10px;
+    height: 70px;
+    background: white;
+    color: blue;
+    font-size: 28px;
+    line-height: 30px;
+    border-radius: 8px;
+} */
+
+
+
+.n{
+    height: 55px;
+    width: 60px;
+    background-color: blue;
+    margin: 20px auto;
+    color: white;
+    border-radius: 6px;
+}
+
+
+
+
+

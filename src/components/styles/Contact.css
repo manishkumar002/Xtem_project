@@ -1,0 +1,46 @@
+.Ctop{
+    height: 80px;
+    background:#e6e6e6 ;
+}
+.ct1{
+  height: 150px;
+  max-width: 560px;
+  box-shadow: 0px 0px 40px #ededed;
+  margin: 20px auto;
+}
+
+.ct2{
+    height: 150px;
+    box-shadow: 0px 0px 40px #ededed;
+    margin: 20px auto;
+  }
+
+  .ct3{
+    height: 150px;
+    box-shadow: 0px 0px 40px #ededed;
+    margin: 20px auto;
+  }
+
+
+  .ct4{
+    height: 600px;
+    max-width: 560px;
+    box-shadow: 0px 0px 40px #ededed;
+   margin: 30px auto;
+  }
+  .t{
+    height: 160px;
+  }
+
+  .t1{
+    height: 100px;
+   width:350px ;
+    border: 2px solid #ededed;;
+  }
+
+  .but1{
+    margin-top: 40px;
+    background-color:blue;
+    color:white;
+  }
+  

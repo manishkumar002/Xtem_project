@@ -1,0 +1,28 @@
+.Stop{
+    height: 80px;
+    background:#e6e6e6 ;
+}
+
+.Sit1{
+    min-height: 300px;
+    max-width: 370px;
+    margin: 20px auto;
+   border: 1px solid #e6e6e6 ;
+    
+}
+
+.Sit1:hover{
+    color:white;
+    background: blue;
+}
+
+.n1{
+    height: 55px;
+    width: 60px;
+    background-color: blue;
+    margin: 20px auto;
+    color: white;
+    border-radius: 6px;
+}
+
+

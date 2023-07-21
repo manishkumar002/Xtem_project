@@ -1,0 +1,57 @@
+.Ctop1{
+    height: 80px;
+    background:#e6e6e6 ;
+}
+.Ca{
+    min-height: 200px;
+    max-width:370px ;
+    border: 1px solid #c4c4c4;
+    margin: 20px auto;
+}
+.Ca1{
+    background: #03a504;
+    border: none;
+    color:white
+}
+.but2{
+    color: blue;
+    width: 100px;
+    height: 30px;
+    margin-left:20px ;
+    border: 1px solid blue;
+}
+
+.Ca2{
+    background: #f6931e;
+    border: none;
+}
+
+ @media screen and (max-width:785px){
+    .Ca{
+        height: 200px;
+        width:370px ;
+        border: 1px solid #c4c4c4;
+        margin: 20px auto;
+    }   
+    
+}
+
+@media screen and (max-width:1174px){
+    .Ca{
+        height: 200px;
+        width:370px ;
+        border: 1px solid #c4c4c4;
+        margin: 20px auto;
+    }   
+    
+}
+
+@media screen and (max-width:1280px){
+    .Ca{
+        height: 200px;
+        width:350px ;
+        border: 1px solid #c4c4c4;
+        margin: 20px auto;
+    }   
+    
+} 

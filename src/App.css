@@ -1,0 +1,608 @@
+
+.buttom
+{
+    height: 40px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+
+    border: 1px solid black;
+}
+.footer
+{
+    min-height: 300px;
+    background-color: #106eea;
+    color: aliceblue;
+   
+}
+.Lipo:hover
+{
+    font-family:Cooper Black ;
+}
+.dilar
+{
+    text-align: justify;
+}
+.icne
+{
+    height: 35px;
+    border-color: aliceblue;
+    background-color: aliceblue;
+    color: blue;
+    border-radius: 100%;
+    width: 34px;
+    padding: 5px;
+}
+
+.icnes
+{
+    height: 30px;
+    border-color: aliceblue;
+    background-color: aliceblue;
+    color: blue;
+    border-radius: 100%;
+    border: 1px solid blue;
+    width: 30px;
+    padding: 5px;
+}
+
+.wel
+{
+    font-size: 40px;
+    font-family: impact;
+    letter-spacing: 4px;
+}
+
+.imgs
+{
+    height: 500px;
+    background-image: url('../public//images/slide-1.jpg');
+    background-size: cover;
+}
+
+.rgba{
+    background: rgba(255,255,255,.6);
+    height: 500px;
+    /* padding: 10px; */
+  }
+.htl
+{
+    margin-top: 100px;
+    box-sizing: border-box;
+    position:relative;
+    top:15px;
+    left: 30px;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.htl1
+
+{margin-top: 130px;
+    box-sizing: border-box;
+    position:relative;
+    top:20px;
+    left: 30px;
+    font-size: 55px;
+    color: blue;
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.htl2
+
+{margin-top: 130px;
+    box-sizing: border-box;
+    position:relative;
+    top:20px;
+    left: 30px;
+    font-size: 59px;
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+  .imgs2
+{
+    height: 500px;
+    background-image: url('../public//images/slide-2.jpg');
+    background-size: cover;
+}
+.rgba2{
+    background: rgba(255,255,255,.5);
+    height: 500px;
+    /* padding: 10px; */
+  }
+  .imgs3
+{
+    height: 500px;
+    background-image: url('../public//images/slide-3.jpg');
+    background-size: cover;
+}
+  .rgba3{
+    background: rgba(255,255,255,.5);
+    height: 500px;
+    /* padding: 10px; */
+  }
+
+  *{
+    margin: 0; padding:0; box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;}
+    .grand_parent{ 
+      width: 90vw;
+      min-height:70vh;
+    
+    }
+  
+    .parents{ 
+      width: 80vw; 
+      min-height: auto;
+     margin-left:20px;
+     display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      transition: all 0.2 linear;
+    }
+  
+  .child{
+    min-height: 200px;
+    box-shadow: 1px 1px 5px #bac3c3;
+    flex:1 1 200px;
+    margin: 10px;
+  }
+  
+  .child:hover{
+    min-height: 200px;
+    background: blue ;
+    color: white;
+    flex:1 1 200px;
+    margin: 10px;
+  }
+  
+  
+  
+  @media (max-width: 768px){
+    .grand_parent{height:auto; }
+  }
+    .role
+    {
+      height: 4px;
+      background-color: #0000ff;
+      border-radius: 10px;
+      width: 80px;
+      /* transform: translate(-10px); */
+    }
+  
+    .w:hover
+    {
+  
+      background-color: #106eea;
+     
+    }
+  
+    .but{
+      height: 40px;
+      width: 60px;
+      border-radius: 15px;
+    }
+  
+    .but:hover
+    {
+      height: 40px;
+      width: 60px;
+      background-color: blue;
+      border: none;
+      color: white;
+    }
+  
+    .but1{
+      height: 40px;
+      width: 180px;
+      border-radius: 15px;
+    }
+    .but1:hover{
+      height: 40px;
+      width: 180px;
+      border-radius: 15px;
+      background-color: blue;
+      border: none;
+      color: white;
+    }
+  
+    .but2{
+      height: 40px;
+      width: 100px;
+      border-radius: 15px;
+    }
+    .but2:hover
+    {
+      height: 40px;
+      width: 100px;
+      border-radius: 15px;
+      background-color: blue;
+      border: none;
+      color: white;
+  
+    }
+  
+    .but3{
+      height: 40px;
+      width: 150px;
+      border-radius: 15px;
+    }
+  
+    .but3:hover
+    {
+      height: 40px;
+      width: 150px;
+      border-radius: 15px;
+      background-color: blue;
+      border: none;
+      color: white;
+  
+    }
+    .but4{
+      height: 40px;
+      width: 50px;
+      border-radius: 15px;
+    }
+    .but4:hover{
+      height: 40px;
+      width: 50px;
+      color: white;
+  
+      border-radius: 15px;
+      background-color: blue;
+      border: none;
+    }
+  
+    .but5{
+      height: 40px;
+      width: 150px;
+      border-radius: 15px;
+    }
+  
+    .but5:hover{
+      height: 40px;
+      width: 150px;
+      border-radius: 15px;
+      background-color: blue;
+      border: none;
+      color: white;
+    }
+    .caree1
+    {
+      height: 200px;
+      width: 200px;
+      margin: 5px auto;
+      border: 1px solid #808080;
+    }
+  
+  
+  .bhicho
+  {
+    position: relative;
+    left: 150px;
+  }
+  .box2
+  {
+    height: 100px;
+    width: 150px;
+    border: 1px solid red;
+  }
+  .bolo1
+  {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+  }
+  .bolo
+  {
+    height: 200px;
+    width: 30%;
+    background-color: aquamarine;
+    padding: 20px;
+  }
+  .business
+  {
+   min-height:500px;
+    border:1px solid rgb(141, 142, 143);
+    box-shadow: 0px 0px  5px rgb(141, 142, 143);
+  }
+  
+  
+  .business:hover
+  {
+   
+    border:2px solid #4b4949;
+  }
+  .inp
+  {
+  padding: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  
+  }
+  .inp1
+  {
+    position: relative;
+    border-radius: 0 10px 10px 0;
+    width: 150px;
+    height: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: blue;
+  }
+  
+  
+            .row1{
+              height: 40px;
+              width: 40px;
+              background-color: rgb(33, 184, 243);
+              text-align: center;
+              color: white;
+              line-height: 40px;
+              padding: 10px;
+              margin: 50% auto;
+              border-radius: 3px;
+              box-shadow: -7px -7px 6px rgb(22, 174, 224);
+              transition: background-color 0.3s, box-shadow 0.3s;
+            }
+            
+            .box:hover {
+              background-color: black;
+            }
+            
+            .box:hover .row1 {
+              box-shadow: -7px -7px 6px lightcoral;
+             background-color: red; 
+            }
+       
+            .business1
+            {
+             min-height:450px;
+              border:1px solid #dddddd;
+              box-shadow: 0px 0px  5px rgb(141, 142, 143);
+            }
+            .business1:hover
+            {
+           
+              border:2px solid #4b4949;
+            }
+                      
+            .business2
+            {
+             min-height:440px;
+              border:1px solid #dddddd;
+              box-shadow: 0px 0px  5px rgb(141, 142, 143);
+            }
+                
+            
+            .business2:hover
+            {
+             
+              border:2px solid #4b4949;
+          
+            }
+  
+  
+                            
+            .business3
+            {
+             min-height:540px;
+              border:1px solid #dddddd;
+              box-shadow: 0px 0px  5px rgb(141, 142, 143);
+            }
+  
+            .business3:hover
+            {
+              border:2px solid #4b4949;
+          
+            }
+              
+            .business4
+            {
+             min-height:500px;
+              border:1px solid #dddddd;
+              box-shadow: 0px 0px  5px rgb(141, 142, 143);
+            }
+  
+            .business4:hover
+            {
+              border:2px solid hsl(0, 1%, 29%);
+          
+            }
+            
+    
+            .but{
+              height: 30px;
+              width: 60px;
+              border-radius: 15px;
+              background-color: #bfbfbf;
+          
+          border:none;
+            }
+          
+            .but:hover
+            {
+              height: 30px;
+              width: 60px;
+              border: none;
+              background-color: blue;
+              color: white;
+            }
+          
+            .but12{
+              height: 30px;
+              width: 180px;
+              margin: 10px;
+              border-radius: 15px;
+              background-color: #bfbfbf;
+          
+              border:none;
+          
+            }
+            .but12:hover{
+              height: 30px;
+              width: 180px;
+              border-radius: 15px;
+              background-color: blue;
+              border: none;
+              color: white;
+            }
+          
+            .but23{
+              height: 30px;
+              width: 100px;
+              border-radius: 15px;
+              background-color: #bfbfbf;
+            }
+          
+             .but22{
+              height: 30px;
+              width: 100px;
+              border-radius: 15px;
+          border: 1px solid blue;
+          color: blue;
+            }
+          
+           /* .but22:hover{
+              height: 30px;
+              width: 100px;
+              border-radius: 15px;
+              background-color:blue;
+          
+              border:none;
+            } */
+            .but2:hover
+            {
+              height: 30px;
+              width: 110px;
+              border-radius: 15px;
+              background-color: blue;
+              border: none;
+              color: white;
+          
+            }
+          
+            .but3{
+              height: 30px;
+              width: 150px;
+              border-radius: 15px;
+              background-color: #bfbfbf;
+          
+              border:none;
+            }
+            .but23:hover
+            {
+              height: 30px;
+              width: 100px;
+              border-radius: 15px;
+              background-color: blue;
+          
+          
+              border:none;
+              color: white;
+          
+            }
+          
+          
+          
+            .but3:hover
+            {
+              height: 30px;
+              width: 150px;
+              border-radius: 15px;
+              background-color: blue;
+              border:none;
+              color: white;
+          
+            }
+            .but4{
+              height: 30px;
+              width: 50px;
+              border-radius: 15px;
+              border: none;
+              background-color: #bfbfbf;
+          
+            }
+            .but4:hover{
+              height: 30px;
+              width: 50px;
+              color: white;
+
+              border-radius: 15px;
+              background-color: blue;
+              border: none;
+            }
+          
+            .but5{
+              height: 30px;
+              width: 150px;
+              border-radius: 15px;
+              margin: 10px;
+              border: none;
+              background-color: #bfbfbf;
+            }
+          
+            .dilip
+{
+  color: blue;
+  text-shadow: 4px 4px 3px black;
+  transform: translateY(-160px);
+  font-size: 50px;
+  transition: linear;
+  margin-bottom:200px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: flex,
+}
+            .but5:hover{
+              height: 40px;
+              width: 150px;
+              border-radius: 15px;
+              background-color: blue;
+              border: none;
+              color: white;
+            }
+     
+            
+           .mani
+           {
+            background-color: #0000ff;
+             border: 1px solid rgb(225, 3, 3);
+             color: rgb(32, 31, 31);
+             height: 20px;
+             width: 30px;
+           }
+  
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
